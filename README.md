@@ -28,4 +28,4 @@ Please review the full audit report for detailed findings and recommendations.
 
 ## Disclaimer
 
-This code is provided for educational and review purposes only. All smart contract interactions carry inherent risks. The audit report is not financial advice and should not be considered as a guarantee of the contract's security. 
+This code is provided for educational and review purposes only. All smart contract interactions carry inherent risks. The audit report is not financial advice and should not be considered as a guarantee of the contract's security. # keeta
