@@ -1,6 +1,6 @@
-# Keeta Smart Contract
+# Keeta Smart Contract audit by 0x0
 
-A Dynamic Tax Token smart contract deployed on the Base Network.
+KEETA(A Dynamic Tax Token smart contract deployed on the Base Network.)
 
 ## Project Structure
 
